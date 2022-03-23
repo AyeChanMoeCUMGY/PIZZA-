@@ -1,0 +1,16 @@
+{
+    "folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\Users\\Aye Chan Moe\\Downloads\\Pizza"
+		},
+		{
+			"path": "..\\..\\..\\30days_JS_Practice\\30-Days-Of-JavaScript"
+		}
+	],
+    "settings": {
+        "git.ignoreLimitWarning": true
+    }
+}
